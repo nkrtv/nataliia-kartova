@@ -1,0 +1,19 @@
+body {
+  width: 500px;
+  margin-top: 50px;
+  font-family: 'League Spartan', sans-serif; 
+  padding: 15px 30px;
+}
+.about {
+    display: flex;
+}
+.info-text{
+    margin: 10px 50px;
+}
+.subtitle{
+    font-size: 20px;
+}
+.photo {
+    width: 130px;
+    border-radius: 30px;
+}
